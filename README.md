@@ -41,7 +41,7 @@ when a `'press'` or `'release'` is fired, the `e` will look something like this
 
 the `button` values tell you which button was pressed. i used the labels on the launchpad, so they should be straight forward, but i'll break it down anyway
 
-![](launchpad.png)
+![](launchpad.png){:height="480px" width="480px"}
 
 the round buttons across the top row are as follows
 
