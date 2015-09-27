@@ -46,7 +46,7 @@ the `button` values tell you which button was pressed. i used the labels on the 
 the round buttons across the top row are as follows
 
 column | button
-_______|________
+------ | ------
 0      | `up`
 1      | `down`
 2      | `left`
@@ -59,7 +59,7 @@ _______|________
 the round buttons down the far right column are as follows
 
 row    | button
-_______|________
+------ | ------
 0      | `vol`
 1      | `pan`
 2      | `sndA`
