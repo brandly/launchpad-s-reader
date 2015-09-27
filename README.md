@@ -3,7 +3,7 @@
 > read input from Launchpad S MIDI controller
 
 ```shell
-$ shell npm install --save launchpad-s-reader
+$ npm install --save launchpad-s-reader
 ```
 
 ## usage
