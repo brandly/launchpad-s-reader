@@ -1,0 +1,42 @@
+{
+  "name": "launchpad-s-reader",
+  "version": "1.0.0",
+  "description": "read input from Launchpad S MIDI controller",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "midi": "^0.9.4"
+  },
+  "devDependencies": {
+    "standard": "^5.3.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandly/launchpad-s-reader.git"
+  },
+  "author": {
+    "name": "Matthew Brandly",
+    "email": "brandly13@gmail.com",
+    "url": "brandly.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "launchpad",
+    "midi",
+    "controller",
+    "input",
+    "reader"
+  ],
+  "bugs": {
+    "url": "https://github.com/brandly/launchpad-s-reader/issues"
+  },
+  "homepage": "https://github.com/brandly/launchpad-s-reader#readme"
+}
